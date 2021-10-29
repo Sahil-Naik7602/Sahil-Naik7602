@@ -1,7 +1,15 @@
-### Hi there 👋
+<p style="text-align:center">
+  
+<p>
+  
+### Hi there 👋 , I am Sahil Kumar Naik! 
+- 🔭 I’m currently 3rd year Electrical Engineering UG
+- 👨🏽‍💻 Currently working, learning and growing my skillset in Electrical and Electronic Engineering.
+- 🤝 Open for collaborations in electronics project.
+- 📫 How to reach me: sahilnaik7602@gmail.com
 
-<!--
-**Sahil-Naik7602/Sahil-Naik7602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
