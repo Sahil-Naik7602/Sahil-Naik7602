@@ -3,7 +3,7 @@
 <p>
   
 ### Hi there 👋 , I am Sahil Kumar Naik! 
-- 🔭 I’m currently 3rd year Electrical Engineering UG
+- 🔭 I’m currently Final year Electrical Engineering UG
 - 👨🏽‍💻 Currently working, learning and growing my skillset in ML and Data Science .
 - 🤝 Open for collaborations in electronics, ML and Data Science project.
 - 📫 How to reach me: sahilnaik7602@gmail.com
