@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🚀 **Software Engineer | Java | Spring Boot | Backend Systems**  <br><br>I'm a dedicated software engineer passionate about problem-solving and scalable backend systems. Currently, I work as an **Associate Applications Developer at Oracle Financial Services Software (OFSS)**, building business modules for **Interest & Charge** departments in customer banks.  <br><br>🔹 **Tech Stack**: Java, Spring Boot, Oracle MySQL, WebLogic, CI/CD, Automation  <br>🔹 **Focus Areas**: Scalable architectures, microservices, performance optimization  <br><br>Let me know if you'd like any refinements! 🚀<br>
+<br>🚀 **Software Engineer | Java | Spring Boot | Backend Systems**  <br><br>I'm a dedicated software engineer passionate about problem-solving and scalable backend systems. Currently, I work as an **Associate Applications Developer at Oracle Financial Services Software (OFSS)**, building business modules for **Interest & Charge** departments in customer banks.  <br><br>🔹 **Tech Stack**: Java, Spring Boot, Oracle MySQL, WebLogic, CI/CD, Automation  <br>🔹 **Focus Areas**: Scalable architectures, microservices, performance optimization.
 
 
 ## 🌐 Socials:
